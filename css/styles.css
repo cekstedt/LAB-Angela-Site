@@ -1,35 +1,35 @@
 a {
-  color: #11999E;
+  color: #11999e;
 }
 
 a:hover {
-  color: #EAF6F6;
+  color: #eaf6f6;
 }
 
 body {
   margin: 0;
   text-align: center;
-  font-family: 'Merriweather', serif;
-  color: #40514E;
+  font-family: "Merriweather", serif;
+  color: #40514e;
 }
 
 h1 {
-  color: #66BFBF;
+  color: #66bfbf;
   font-size: 5.625rem;
   margin: 50px auto 0 auto;
-  font-family: 'Sacramento', cursive;
+  font-family: "Sacramento", cursive;
   line-height: 2;
 }
 
 h2 {
-  color: #66BFBF;
+  color: #66bfbf;
   font-size: 2.5rem;
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 h3 {
-  color: #11999E;
-  font-family: 'Montserrat', sans-serif;
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
 }
 
 hr {
@@ -46,7 +46,7 @@ hr {
 }
 
 .top-container {
-  background-color: #EAF6F6;
+  background-color: #eaf6f6;
   position: relative;
   padding-top: 100px;
 }
@@ -99,7 +99,7 @@ hr {
 }
 
 .bottom-container {
-  background-color: #66BFBF;
+  background-color: #66bfbf;
 }
 
 .contact-desc {
@@ -133,14 +133,14 @@ hr {
 }
 
 .footer-link {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   text-decoration: none;
   font-weight: bold;
   margin: auto 25px auto 25px;
 }
 
 .copyright {
-  color: #EAF6F6;
+  color: #eaf6f6;
   font-size: 12px;
   margin-top: 30px;
 }
