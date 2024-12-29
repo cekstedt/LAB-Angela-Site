@@ -41,7 +41,7 @@ This is a solution to the [Angela's Site](https://www.udemy.com/course/the-compl
 This project is HTML & CSS only, so simply clone the repo then open `src/index.html` in your browser.
 
 ```
-git clone https://github.com/cekstedt/FreeCodeCamp-Photo-Gallery.git
+git clone https://github.com/cekstedt/LAB-Angela-Site.git
 ```
 
 ## Author
